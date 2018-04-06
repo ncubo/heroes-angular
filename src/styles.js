@@ -12,15 +12,18 @@ export default StyleSheet.create({
     "main-container": {
         "marginTop": 20
     },
+    "img-logo": {
+        "width": 150
+    },
     "animated": {
-        "WebkitAnimationDuration": "1s",
-        "animationDuration": "1s",
+        "WebkitAnimationDuration": "1.5s",
+        "animationDuration": "1.5s",
         "WebkitAnimationFillMode": "both",
         "animationFillMode": "both"
     },
     "fast": {
-        "WebkitAnimationDuration": "0.4s",
-        "animationDuration": "0.4s",
+        "WebkitAnimationDuration": "0.6s",
+        "animationDuration": "0.6s",
         "WebkitAnimationFillMode": "both",
         "animationFillMode": "both"
     },
